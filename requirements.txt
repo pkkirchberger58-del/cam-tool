@@ -1,0 +1,11 @@
+# CAM-Tool Python-Abhängigkeiten
+# Installation: pip install -r requirements.txt
+#
+# WICHTIG: numpy MUSS < 2.0 sein. ...
+
+numpy>=1.21,<2.0
+scipy>=1.7,<1.14
+matplotlib>=3.5,<3.9
+ezdxf>=1.0,<2.0
+numpy-stl>=3.0
+tkinterdnd2>=0.4.0
