@@ -1,4 +1,4 @@
-﻿# Python
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
@@ -35,6 +35,14 @@ test_*.png
 test_*.dxf
 test_*.mpf
 test_*.h
+
+# Test-Dateien und generierte Ausgaben
+*.pdf
+test.dxf
+test2.dxf
+test*.dxf
+test*.mpf
+test*.h
 
 # Logs
 *.log
